@@ -27,7 +27,7 @@ const WebPage = () => {
         links: [
           'https://www.linkedin.com/in/harshitsuri/',
           'https://github.com/theharshitsuri',
-          'https://harshitsuri',
+          'https://harshitsuri.com',
         ],
       });
     } else {
