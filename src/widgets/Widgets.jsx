@@ -33,7 +33,7 @@ const Widgets = () => {
           {/* Flats at 4200 */}
           <WidgetCard
             title="The Flats at 4200"
-            link={<a href="https://www.livetheflats.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.livetheflats.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Clubhouse, Movie Theatre, Gym, Study Room, Computer Lab"
             imageUrl={flats}
             linkTo="/listingpageflats4200"
@@ -42,7 +42,7 @@ const Widgets = () => {
           {/* Venue at North Campus */}
           <WidgetCard
             title="Venue at North Campus"
-            link={<a href="https://www.venueatnorthcampus.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.venueatnorthcampus.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Volleyball Court, Clubhouse, Gym, Zen Courtyard, Computer Lab, Dog Park"
             imageUrl={venue}
             linkTo="/listingpagevenue"
@@ -51,7 +51,7 @@ const Widgets = () => {
           {/* Lark on 42nd */}
           <WidgetCard
             title="Lark on 42nd"
-            link={<a href="https://larkon42nd.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://larkon42nd.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Pool, Grill, Gym, Lounge"
             imageUrl={lark}
             linkTo="/listingpagelark"
@@ -60,7 +60,7 @@ const Widgets = () => {
           {/* 4050 Lofts */}
           <WidgetCard
             title="4050 Lofts"
-            link={<a href="https://www.4050lofts.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.4050lofts.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Gym, Study Spaces"
             imageUrl={lofts4050}
             linkTo="/listingpage4050"
@@ -69,7 +69,7 @@ const Widgets = () => {
           {/* Station 42 */}
           <WidgetCard
             title="Station 42"
-            link={<a href="https://station42.us/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://station42.us/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Cyber Cafe, Dog Park"
             imageUrl={station42}
             linkTo="/listingpagestation42"
@@ -78,7 +78,7 @@ const Widgets = () => {
           {/* Park Place */}
           <WidgetCard
             title="Park Place"
-            link={<a href="https://www.parkplaceattampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.parkplaceattampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Basketball Court, Gym, Movie theatre, Study Spaces"
             imageUrl={parkplace}
             linkTo="/listingpageparkplace"
@@ -87,7 +87,7 @@ const Widgets = () => {
           {/* 42N */}
           <WidgetCard
             title="42N"
-            link={<a href="https://live42n.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://live42n.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Hot tub, Gym, Basketball Court, Study Lounge, Dog Park"
             imageUrl={N42}
             linkTo="/listingpage42N"
@@ -96,7 +96,7 @@ const Widgets = () => {
           {/* Avalon Heights */}
           <WidgetCard
             title="Avalon Heights"
-            link={<a href="https://www.americancampus.com/student-apartments/fl/tampa/avalon-heights" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.americancampus.com/student-apartments/fl/tampa/avalon-heights" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Hot Tub, Grill, Gym, Basketball Court, Volleyball Court, Clubroom, Tennis Court"
             imageUrl={avalon}
             linkTo="/listingpageavalon"
@@ -105,7 +105,7 @@ const Widgets = () => {
           {/* The Standard */}
           <WidgetCard
             title="The Standard"
-            link={<a href="https://thestandardtampa.landmark-properties.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://thestandardtampa.landmark-properties.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Game Room"
             imageUrl={standard}
             linkTo="/listingpagestandard"
@@ -114,7 +114,7 @@ const Widgets = () => {
           {/* The Metropolitan */}
           <WidgetCard
             title="The Metropolitan"
-            link={<a href="https://www.themettampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.themettampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Clubroom"
             imageUrl={themet}
             linkTo="/listingpagemetropolitan"
@@ -123,7 +123,7 @@ const Widgets = () => {
           {/* Hub on Campus Tampa */}
           <WidgetCard
             title="Hub on Campus Tampa"
-            link={<a href="https://huboncampus.com/tampa/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://huboncampus.com/tampa/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Hot Tub, Grill, Gym, Study Area, Dog Park"
             imageUrl={hub}
             linkTo="/listingpagehub"
@@ -132,7 +132,7 @@ const Widgets = () => {
           {/* Union on Fletcher */}
           <WidgetCard
             title="Union on Fletcher"
-            link={<a href="https://www.uniononfletcher.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.uniononfletcher.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Outdoor Patio, Firepit, Club House, Study Area, Dog Washing Station,"
             imageUrl={union}
             linkTo="/listingpageunion"
@@ -141,7 +141,7 @@ const Widgets = () => {
           {/* The Province */}
           <WidgetCard
             title="The Province"
-            link={<a href="" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Sand Volleyball Court, Theatre Room"
             imageUrl={province}
             linkTo="/listingpageprovince"
@@ -150,7 +150,7 @@ const Widgets = () => {
           {/* Halo 46 */}
           <WidgetCard
             title="Halo 46"
-            link={<a href="https://huboncampus.com/tampa/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://huboncampus.com/tampa/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Hot Tub, Grill, Gym, Study Area, Dog Park"
             imageUrl={halo}
             linkTo="/listingpagehalo"
@@ -159,7 +159,7 @@ const Widgets = () => {
           {/* On50 */}
           <WidgetCard
             title="On50"
-            link={<a href="https://www.on50tampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.on50tampa.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Hot Tub, Grill, Gym, Study Area, Dog Park"
             imageUrl={on50}
             linkTo="/listingpageon50"
@@ -168,7 +168,7 @@ const Widgets = () => {
           {/* IQ Apartments */}
           <WidgetCard
             title="IQ Apartments"
-            link={<a href="https://www.liveatiq.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.liveatiq.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Games Room, Study Area"
             imageUrl={iq}
             linkTo="/listingpageiq"
@@ -177,7 +177,7 @@ const Widgets = () => {
           {/* The Retreat */}
           <WidgetCard
             title="The Retreat"
-            link={<a href="https://www.retreatatusf.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.retreatatusf.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, Sand Volleyball Court, Lounge"
             imageUrl={retreat}
             linkTo="/listingpageretreat"
@@ -186,7 +186,7 @@ const Widgets = () => {
           {/* The Ivy */}
           <WidgetCard
             title="The Ivy"
-            link={<a href="https://www.livetheivy.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.livetheivy.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, ClubHouse, Study Rooms, Lounge, Dog Park"
             imageUrl={ivy}
             linkTo="/listingpageivy"
@@ -195,7 +195,7 @@ const Widgets = () => {
           {/* LakeView Oaks */}
           <WidgetCard
             title="Lakeview Oaks Apartments"
-            link={<a href="https://www.lakeviewoaks.net/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.lakeviewoaks.net/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Grill, Gym, ClubHouse, Clubhouse, Tennis Court, Basketball Court, Volleyball Court, Dog Park"
             imageUrl={lakeview}
             linkTo="/listingpagelakeview"
@@ -204,7 +204,7 @@ const Widgets = () => {
           {/* Oaks Condominiums */}
           <WidgetCard
             title="Oaks Condominiums"
-            link={<a href="https://maps.app.goo.gl/y43EiJjDhhDqWoWs6" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://maps.app.goo.gl/y43EiJjDhhDqWoWs6" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Tennis Court"
             imageUrl={oaks}
             linkTo="/listingpageoaks"
@@ -213,7 +213,7 @@ const Widgets = () => {
           {/* Cambridge Woords */}
           <WidgetCard
             title="Cambridge Woods"
-            link={<a href="https://www.udr.com/tampa-apartments/university-center/cambridge-woods/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://www.udr.com/tampa-apartments/university-center/cambridge-woods/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Gym, Fire Pit, ClubHouse, Game Room, Dog Park"
             imageUrl={cambridge}
             linkTo="/listingpagecambridge"
@@ -222,7 +222,7 @@ const Widgets = () => {
           {/* Oak Ramble */}
           <WidgetCard
             title="Oak Ramble"
-            link={<a href="https://rent.brookfieldproperties.com/property/oak-ramble/?utm_campaign=gmb&utm_medium=organic&utm_source=local" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>Link</a>}
+            link={<a href="https://rent.brookfieldproperties.com/property/oak-ramble/?utm_campaign=gmb&utm_medium=organic&utm_source=local" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', color: 'black' }}>View Website</a>}
             subtitle="Amenities: Pool, Gym"
             imageUrl={oakramble}
             linkTo="/listingpageoakramble"
