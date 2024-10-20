@@ -8,7 +8,7 @@ import adarsh from '../../Images/adarsh_headshot.jpg';
 import harshit from '../../Images/harshit_headshot.jpg';
 import linkedin from '../../Images/linkedinLogo.png';
 import github from '../../Images/githubLogo.png';
-import harshitlogo from '../../Images/harshitlogo.jpg'; 
+import harshitlogo from '../../Images/harshitlogo.jpg';
 
 const WebPage = () => {
   const [showPopup, setShowPopup] = useState(false);
@@ -27,7 +27,7 @@ const WebPage = () => {
         links: [
           'https://www.linkedin.com/in/harshitsuri/',
           'https://github.com/theharshitsuri',
-          'https://theharshitsuri',
+          'https://harshitsuri',
         ],
       });
     } else {
@@ -60,7 +60,7 @@ const WebPage = () => {
         <div className="w-full md:w-1/2 mb-6 md:mb-0">
           <h2 className="text-2xl font-semibold mb-4">Welcome to Lease Link</h2>
           <p className="text-lg">
-            We are a pair of passionate developers bringing solutions to your digital world. 
+            We are a pair of passionate developers bringing solutions to your digital world.
             Learn more about us by interacting with the buttons on the right!
           </p>
         </div>
