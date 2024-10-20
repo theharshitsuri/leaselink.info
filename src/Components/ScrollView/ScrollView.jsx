@@ -3,7 +3,7 @@ import ScrollItem from './ScrollItem';
 
 const ScrollView = ({ items }) => {
   return (
-    <div className="w-[98%] h-80 mx-auto mt-8 overflow-y-auto">
+    <div className="w-full h-80 mx-auto mt-8 overflow-y-auto overflow-x-auto">
       <div className="flex flex-col space-y-4">
         {items.map((item, index) => (
           <div
