@@ -82,7 +82,7 @@ const ListingPage42N = () => {
             style={{ maxHeight: '400px', maxWidth: '100%' }}
           >
             {/* Set width to 300% on mobile screens to avoid squished content */}
-            <div className="w-[200%] lg:w-full">
+            <div className=" lg:w-full">
               <ScrollView
                 items={listings.map((listing) => ({
                   listerName: listing.name,
