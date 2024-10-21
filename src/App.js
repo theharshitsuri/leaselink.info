@@ -30,6 +30,7 @@ import ProtectedRoutes from './utils/ProtectedRoutes.jsx';
 import ListingPageLakeviewOaks from './Components/ListingPage/ListingPageLakeviewOaks.jsx';
 import ListingPageOaks from './Components/ListingPage/ListingPageOaks.jsx';
 import ListingPageOakRamble from './Components/ListingPage/ListingPageOakRamble.jsx';
+import ListingPageLinx from './Components/ListingPage/ListingPageLinx.jsx';
 
 
 function App() {
@@ -70,6 +71,7 @@ function App() {
               <Route path="/listingpagemetropolitan" element={<ListingPageMetropolitan />} />
               <Route path="/listingpagehub" element={<ListingPageHub />} />
               <Route path="/listingpageoakramble" element={<ListingPageOakRamble />} />
+              <Route path="/listingpagelinx" element={<ListingPageLinx />} />
             </Route>
 
           </Routes>

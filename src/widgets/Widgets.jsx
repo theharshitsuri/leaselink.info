@@ -21,6 +21,7 @@ import lakeview from "../Images/lakeview.jpg";
 import oaks from "../Images/oaks.jpg";
 import cambridge from "../Images/cambridge.jpg";
 import oakramble from "../Images/oakramble.jpg";
+import linx from "../Images/linx.jpg";
 import WidgetCard from './WidgetCard';
 
 const Widgets = () => {
@@ -226,6 +227,15 @@ const Widgets = () => {
             subtitle="Amenities: Pool, Gym"
             imageUrl={oakramble}
             linkTo="/listingpageoakramble"
+          />
+
+          {/* The Linx */}
+          <WidgetCard
+            title="The Linx"
+            link={<a href="https://www.thelinxapartments.com/?gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P9_l3yO4y4ozxI_o_Z5cz79a-JqJ7uZl4M4DNCNK0583ra2XgpX8vcaAifLEALw_wcB" target="_blank" rel="noopener noreferrer" >View Website</a>}
+            subtitle="Amenities: Pool, Gym"
+            imageUrl={linx}
+            linkTo="/listingpagelinx"
           />
 
         </div>
