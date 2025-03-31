@@ -30,20 +30,7 @@ const WebPage = () => {
           'https://harshitsuri.com',
         ],
       });
-    } else {
-      setPopupContent({
-        image: adarsh,
-        logos: [
-          linkedin,
-          github,
-        ],
-        title: 'Adarsh Kessani',
-        links: [
-          'https://www.linkedin.com/in/akessani/',
-          'https://github.com/adarsh1343',
-        ],
-      });
-    }
+    } 
     setShowPopup(true);
   };
 
