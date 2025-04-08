@@ -23,6 +23,7 @@ import cambridge from "../Images/cambridge.jpg";
 import oakramble from "../Images/oakramble.jpg";
 import linx from "../Images/linx.jpg";
 import WidgetCard from './WidgetCard';
+import bellarmine from '../../Images/bellarmine.jpg';
 
 const Widgets = () => {
   return (
@@ -237,7 +238,15 @@ const Widgets = () => {
             imageUrl={linx}
             linkTo="/listingpagelinx"
           />
-
+          
+          {/* Bellarmine Hall */}
+          <WidgetCard
+            title="Bellarmine Hall"
+            link={<a href="https://www.bellarminehall.com" target="_blank" rel="noopener noreferrer" >View Website</a>}
+            subtitle="Amenities: Outdoor Patio with BBQ, Study Lounge, Game Lounge, Coffee Bar,"
+            imageUrl={bellarmine}
+            linkTo="/listingpagebellarmine"
+          />
         </div>
       </div>
     </div>

@@ -16,7 +16,7 @@ const AddListing = () => {
 
     const [error, setError] = useState(''); // State for storing email validation error
 
-    const propertyOptions = ['The Flats at 4200', 'Venue at North Campus', 'Lark on 42nd', '4050 Lofts', 'Station 42', 'Park Place', '42N', 'Avalon Heights', 'The Standard', 'The Metropolitan', 'Hub on Campus Tampa', 'Union on Fletcher', 'Halo 46', 'Station 42', 'The Province', 'IQ Apartments', 'The Retreat', 'On50', 'The Ivy', 'Lakeview Oaks', 'Oaks', 'Cambridge Woods', 'Oak Ramble', 'The Linx'];
+    const propertyOptions = ['The Flats at 4200', 'Venue at North Campus', 'Lark on 42nd', '4050 Lofts', 'Station 42', 'Park Place', '42N', 'Avalon Heights', 'The Standard', 'The Metropolitan', 'Hub on Campus Tampa', 'Union on Fletcher', 'Halo 46', 'Station 42', 'The Province', 'IQ Apartments', 'The Retreat', 'On50', 'The Ivy', 'Lakeview Oaks', 'Oaks', 'Cambridge Woods', 'Oak Ramble', 'The Linx','Bellarmine Hall'];
 
     const handleChange = (e) => {
         const { name, value } = e.target;

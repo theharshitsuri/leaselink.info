@@ -31,6 +31,7 @@ import ListingPageLakeviewOaks from './Components/ListingPage/ListingPageLakevie
 import ListingPageOaks from './Components/ListingPage/ListingPageOaks.jsx';
 import ListingPageOakRamble from './Components/ListingPage/ListingPageOakRamble.jsx';
 import ListingPageLinx from './Components/ListingPage/ListingPageLinx.jsx';
+import ListingPageBellarmine from './Components/ListingPage/ListingPageBellarmine.jsx';
 
 
 function App() {
@@ -72,6 +73,7 @@ function App() {
               <Route path="/listingpagehub" element={<ListingPageHub />} />
               <Route path="/listingpageoakramble" element={<ListingPageOakRamble />} />
               <Route path="/listingpagelinx" element={<ListingPageLinx />} />
+              <Route path="/listingpagebellarmine" element={<ListingPageBellarmine />} />
             </Route>
 
           </Routes>
