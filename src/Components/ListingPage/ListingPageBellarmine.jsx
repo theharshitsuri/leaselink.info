@@ -4,7 +4,7 @@ import Navbar from '../../Navbar/Navigation';
 import { collection, query, where, getDocs } from 'firebase/firestore';
 import { db } from '../../firebase/firebase';
 import Modal from 'react-modal';
-import bellarmine from '../../Images/bellarmine.jpg'; 
+import bellarmine from '../../Images/Bellarmine.jpg'; 
 
 Modal.setAppElement('#root'); // Accessibility for the modal
 
