@@ -23,7 +23,7 @@ import cambridge from "../Images/cambridge.jpg";
 import oakramble from "../Images/oakramble.jpg";
 import linx from "../Images/linx.jpg";
 import WidgetCard from './WidgetCard';
-import bellarmine from '../../Images/Bellarmine.jpg';
+import bellarmine from '../Images/Bellarmine.jpg';
 
 const Widgets = () => {
   return (
